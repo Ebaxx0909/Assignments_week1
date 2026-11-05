@@ -8,6 +8,3 @@
 
 # Predictions: The shape of the dataset would be rectangular, the number of distinct items would be 8 and there would be 12 number of distinct dates.
 
-# Result: 1- The dataset had 96 rows and 6 columns so, I was right, the shape is rectangular
-# 2- The number of distinct items were 4, I predicted 8
-# 3- The number of distinct dates were 12, I was spot on
